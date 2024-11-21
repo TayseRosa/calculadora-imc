@@ -10,7 +10,7 @@ Tayse Rosa
 <br>
 🟢 Status do projeto: Concluído
 <br>
-🔗 Link do projeto em funcionamento: 
+🔗 Link do projeto em funcionamento: https://calculadora-imc-umber-five.vercel.app/
 
 ---
 <p align="center">
